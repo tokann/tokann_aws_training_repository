@@ -1,0 +1,2 @@
+# tokann_aws_training_repository
+研修用Repository
